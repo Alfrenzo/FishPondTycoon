@@ -30,6 +30,8 @@ Can you turn your tiny pond into a fish-filled fortune? 💰
 |---|
 | ![Screenshot 1](FishPondTycoon.png) |
 
+[![Watch the trailer](https://img.youtube.com/vi/zoK1u_M7gX4?si=X5LitGdUvCYSasWA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zoK1u_M7gX4?si=X5LitGdUvCYSasWA)
+
 ---
 
 ## 🛠️ Built With
